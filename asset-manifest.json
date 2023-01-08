@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/MovieAppRedux/static/css/main.94115b83.css",
-    "main.js": "/MovieAppRedux/static/js/main.f93e98d9.js",
+    "main.js": "/MovieAppRedux/static/js/main.60d9d3ce.js",
     "index.html": "/MovieAppRedux/index.html",
     "main.94115b83.css.map": "/MovieAppRedux/static/css/main.94115b83.css.map",
-    "main.f93e98d9.js.map": "/MovieAppRedux/static/js/main.f93e98d9.js.map"
+    "main.60d9d3ce.js.map": "/MovieAppRedux/static/js/main.60d9d3ce.js.map"
   },
   "entrypoints": [
     "static/css/main.94115b83.css",
-    "static/js/main.f93e98d9.js"
+    "static/js/main.60d9d3ce.js"
   ]
 }
